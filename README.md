@@ -1,6 +1,6 @@
-# Personal Linktree Project
+# Personal Link Tree Project
 
-Welcome to my **Personal Linktree Project**!  
+Welcome to my **Personal Link Tree Project**!  
 This project is a minimalist, customizable webpage that consolidates all your important links in one place. Perfect for sharing on social media, portfolios, or business cards.
 
 ---
